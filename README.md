@@ -1,4 +1,4 @@
-# Modified_6D_matrix_Fisher_distribution_for_probability_pose_estimation
+# 6D_matrix_Fisher_distribution_for_probability_pose_estimation
 
 
 This is a repo for our work 《6D Matrix Fisher Distribution for Probability Pose Estimation》.
