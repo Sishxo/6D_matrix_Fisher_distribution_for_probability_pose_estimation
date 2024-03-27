@@ -1,0 +1,10 @@
+{
+    "type": "pascal",
+    "data_aug": true,
+    "embedding_dim": 32,
+    "synthetic_data": false,
+    "warp": true,
+    "pascal_train": false,
+    "source":"pascal_test_only"
+}
+
