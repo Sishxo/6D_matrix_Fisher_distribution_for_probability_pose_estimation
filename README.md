@@ -37,3 +37,8 @@ tensorboard --log_dir=./
 ```
 python scripts/visualize_pascal3d.py
 ```
+## Acknowledgement
+
+Our code referred to the repo of the matrix Fisher distribution [MatrixFisher](https://github.com/Davmo049/Public_prob_orientation_estimation_with_matrix_fisher_distributions) and the repo of Rotation Laplace [RotationLaplace](https://github.com/yd-yin/RotationLaplace).
+
+According to the way of dataset splitting introduced in Implicit-PDF, we use ImageNet-trainval and Pascal-train images as our training data and the Pascal-val images as our testing data.
